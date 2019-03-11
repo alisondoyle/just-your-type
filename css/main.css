@@ -4,6 +4,15 @@ color: #63cdf4;
 }
 
 .line-2 {
-  font-family: "Oswald". sans-serif;
+  font-family: "Oswald", sans-serif;
   color: #63cdf4;
+  font-weight: bold;
+}
+
+
+.line-3 {
+  font-family: "Oswald", sans-serif;
+  color: #F7AAB8;
+  font-weight: bold;
+
 }

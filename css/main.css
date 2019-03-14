@@ -1,6 +1,7 @@
 .line-1 {
-font-family: "Oswald", sans-serif;
-color: #63cdf4;
+  font-family: "Lato", sans-serif;
+  color: #63cdf4;
+  font-weight: lighter;
 }
 
 .line-2 {
@@ -9,10 +10,35 @@ color: #63cdf4;
   font-weight: bold;
 }
 
-
 .line-3 {
   font-family: "Oswald", sans-serif;
   color: #F7AAB8;
   font-weight: bold;
+  font-weight: bold;
+    opacity: 0.5;
+}
 
+.line-4 {
+  font-family: "Lato", sans-serif;
+  color: #F7AAB8;
+  font-weight: lighter;
+  border-style: solid;
+  border-width: medium;
+  border-color: #F7AAB8;
+  padding-bottom: 1em;
+  display: flow-root;
+}
+
+.line-5 {
+  font-family: "Oswald", sans-serif;
+  color: #63cdf4;
+  font-weight: bold;
+    opacity: 0.5;
+}
+
+
+.line-6 {
+  font-family: "Oswald", sans-serif;
+  color: #63cdf4;
+  font-weight: bold;
 }
